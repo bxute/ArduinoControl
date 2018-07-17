@@ -10,4 +10,4 @@ Other Feature includes
 ### Screenshots
 
 Control Pad
-![device-2016-06-04-021307](https://user-images.githubusercontent.com/10809719/36348236-1d57c9dc-1491-11e8-9304-c0de91c09c5d.png)
+<img src="https://user-images.githubusercontent.com/10809719/36348236-1d57c9dc-1491-11e8-9304-c0de91c09c5d.png" width="380px" height="640px"/>
